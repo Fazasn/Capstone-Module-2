@@ -3,8 +3,8 @@
 capstone project module 2 ini berisikan Exploratory Data Analysist, dimana data yang dianalisa adalah data Crime in Boston.
 di data ini terdapat 2 dataset yaitu:
 1. Dataset Offence Code yang berisikan kolom :
-    a. Code = kode terjadinya kejahatan
-    b. Name = deskripsi nama kejahatan yang dilakukan
+    - Code = kode terjadinya kejahatan
+    - Name = deskripsi nama kejahatan yang dilakukan
     
 2. Dataset Crime yang berisikan kolom : 
     - INCIDENT_NUMBER : ID unik dari setiap insiden
